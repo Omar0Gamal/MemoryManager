@@ -1,6 +1,6 @@
-# df_Memory Usage Guide
+# Memory Manager Usage Guide
 
-Welcome to the df_Memory repository! This simple memory manager and allocator, written in C++, is designed to streamline your future projects. Let's get started on how to use it. 🚀
+Welcome to the Memory Manager repository! This simple memory manager and allocator, written in C++, is designed to streamline your future projects. Let's get started on how to use it. 🚀
 
 ## Getting Started
 
