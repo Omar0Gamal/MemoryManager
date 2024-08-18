@@ -1,3 +1,5 @@
+<img src="https://github.com/Omar0Gamal/MemoryManager/blob/5cd318a0a39fabfac7d78f20184e9264ae26435f/MemoryManagment.png" width=70% height=70%>
+
 # Simple C++ Memory Manager 🧠💾
 
 A straightforward memory manager and allocator for C++ projects, created by Omar Gamal. Efficient, easy to use, and ready to be integrated into your future projects.
